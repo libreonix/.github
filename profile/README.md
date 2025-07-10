@@ -1,5 +1,7 @@
-Libreonix Private Limited
-Empowering Business Logic with AI
+# Libreonix Private Limited
+
+## Empowering Business Logic with AI
+
 Libreonix Private Limited is a startup dedicated to bridging the gap between open-source innovation and proprietary technology to deliver robust AI solutions for business logic. We believe in leveraging the power of collaboration and flexible technology stacks to build the future of software development.
 
 Featured Project: Braindock
